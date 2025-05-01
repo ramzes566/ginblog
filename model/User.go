@@ -1,7 +1,8 @@
 package model
 
 import (
-	"github.com/wejectchen/ginblog/utils/errmsg"
+	"ginblog/utils/errmsg"
+
 	"gorm.io/gorm"
 )
 

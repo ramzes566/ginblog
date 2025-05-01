@@ -1,0 +1,6 @@
+time="2025-04-10 20:43:32" level=error Agent=PostmanRuntime/7.43.3 DataSize=0 HostName=DESKTOP-FT0C0N8 Ip="::1" Method=POST Path="/api/v1/user/add?username=abc&password=12345&role=1" SpendTime=9ms status=500
+time="2025-04-10 20:43:53" level=error Agent=PostmanRuntime/7.43.3 DataSize=0 HostName=DESKTOP-FT0C0N8 Ip="::1" Method=POST Path="/api/v1/user/add?username=%22abc%22&password=%2212345%22&role=1" SpendTime=2ms status=500
+time="2025-04-10 20:45:32" level=info Agent=PostmanRuntime/7.43.3 DataSize=47 HostName=DESKTOP-FT0C0N8 Ip="::1" Method=POST Path="/api/v1/user/add?username=%22abc%22&password=%2212345%22&role=1" SpendTime=0ms status=200
+time="2025-04-10 20:45:44" level=info Agent=PostmanRuntime/7.43.3 DataSize=47 HostName=DESKTOP-FT0C0N8 Ip="::1" Method=POST Path="/api/v1/user/add?username=%22abcdef%22&password=%2212345%22&role=1" SpendTime=0ms status=200
+time="2025-04-10 20:55:50" level=info Agent=PostmanRuntime/7.43.3 DataSize=47 HostName=DESKTOP-FT0C0N8 Ip="::1" Method=POST Path=/api/v1/user/add SpendTime=0ms status=200
+time="2025-04-10 20:55:53" level=info Agent=PostmanRuntime/7.43.3 DataSize=47 HostName=DESKTOP-FT0C0N8 Ip="::1" Method=POST Path=/api/v1/user/add SpendTime=0ms status=200

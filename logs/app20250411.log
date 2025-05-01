@@ -1,0 +1,11 @@
+time="2025-04-11 08:08:55" level=info Agent=PostmanRuntime/7.43.3 DataSize=47 HostName=DESKTOP-FT0C0N8 Ip="::1" Method=POST Path=/api/v1/user/add SpendTime=0ms status=200
+time="2025-04-11 08:11:07" level=info Agent=PostmanRuntime/7.43.3 DataSize=60 HostName=DESKTOP-FT0C0N8 Ip="::1" Method=POST Path=/api/v1/user/add SpendTime=0ms status=200
+time="2025-04-11 08:11:14" level=info Agent=PostmanRuntime/7.43.3 DataSize=54 HostName=DESKTOP-FT0C0N8 Ip="::1" Method=POST Path=/api/v1/user/add SpendTime=0ms status=200
+time="2025-04-11 08:11:21" level=info Agent=PostmanRuntime/7.43.3 DataSize=29 HostName=DESKTOP-FT0C0N8 Ip="::1" Method=POST Path=/api/v1/user/add SpendTime=7ms status=200
+time="2025-04-11 08:12:40" level=info Agent=PostmanRuntime/7.43.3 DataSize=196 HostName=DESKTOP-FT0C0N8 Ip="::1" Method=GET Path=/api/v1/users SpendTime=5ms status=200
+time="2025-04-11 08:22:26" level=info Agent=PostmanRuntime/7.43.3 DataSize=196 HostName=DESKTOP-FT0C0N8 Ip="::1" Method=GET Path=/api/v1/users SpendTime=4ms status=200
+time="2025-04-11 08:22:38" level=info Agent=PostmanRuntime/7.43.3 DataSize=196 HostName=DESKTOP-FT0C0N8 Ip="::1" Method=GET Path=/api/v1/users SpendTime=10ms status=200
+time="2025-04-11 08:22:40" level=info Agent=PostmanRuntime/7.43.3 DataSize=196 HostName=DESKTOP-FT0C0N8 Ip="::1" Method=GET Path=/api/v1/users SpendTime=2ms status=200
+time="2025-04-11 08:23:06" level=info Agent=PostmanRuntime/7.43.3 DataSize=196 HostName=DESKTOP-FT0C0N8 Ip="::1" Method=GET Path=/api/v1/users SpendTime=3ms status=200
+time="2025-04-11 08:23:17" level=info Agent=PostmanRuntime/7.43.3 DataSize=202 HostName=DESKTOP-FT0C0N8 Ip="::1" Method=GET Path=/api/v1/users SpendTime=8ms status=200
+time="2025-04-11 09:09:36" level=info Agent=PostmanRuntime/7.43.3 DataSize=202 HostName=DESKTOP-FT0C0N8 Ip="::1" Method=GET Path=/api/v1/users SpendTime=6ms status=200
